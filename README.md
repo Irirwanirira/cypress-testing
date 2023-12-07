@@ -1,1 +1,1 @@
-# cypress-testing
+This is a Next project highlights the benefits of using Cypress for web testing. It not only explains why Cypress is a great choice but also provides step-by-step instructions to run tests on your own. With Cypress, you can easily set up and execute tests, benefiting from features like real-time reload, debugging capabilities, and automatic waiting. Experience efficient web testing by following the provided instructions.
